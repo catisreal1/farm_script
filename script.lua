@@ -4,7 +4,7 @@ if game.PlaceId == 10449761463 or game.Workspace:FindFirstChild("Live") then -- 
 
     local Window = Rayfield:CreateWindow({
         Name = "catHub | tsb version beta test v0.1",
-        LoadingTitle = "Snowy Hub Interface",
+        LoadingTitle = "beta test 0.1",
         LoadingSubtitle = "by cat & ✧",
         ConfigurationSaving = {
             Enabled = true,
