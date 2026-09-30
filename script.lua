@@ -1,5 +1,3 @@
-if game.PlaceId == 10449761463 or game.Workspace:FindFirstChild("Live") then -- Hoặc check theo tên game tùy ý
-
     local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
     local Window = Rayfield:CreateWindow({
