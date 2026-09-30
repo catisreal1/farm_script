@@ -262,4 +262,3 @@
     })
     
     Rayfield:LoadConfiguration()
-end
